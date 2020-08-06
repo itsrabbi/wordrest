@@ -5,8 +5,8 @@ import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
 import android.util.Log;
 
-import com.itsanubhav.wplib.database.DatabaseHandler;
-import com.itsanubhav.wplib.models.category.Category;
+import com.itsrabbi.wordrest.database.DatabaseHandler;
+import com.itsrabbi.wordrest.models.category.Category;
 
 
 import java.util.ArrayList;
